@@ -1,3 +1,4 @@
+
 # DeepSeek-OCR en Mac M2: OCR para Recibos
 
 Script simple ocr.py para leer recibos con DeepSeek-OCR local en Apple Silicon (M2/M3). Basado en mi tutorial YouTube.
@@ -18,3 +19,4 @@ Script simple ocr.py para leer recibos con DeepSeek-OCR local en Apple Silicon (
 Ver video para fixes MPS y tests con arrugada. ¡Prueba y comenta tu total!
 
 Licencia: MIT – usa libre.
+
